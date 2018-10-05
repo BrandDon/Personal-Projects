@@ -1,0 +1,5 @@
+requests
+arrow
+tinydb
+apscheduler
+bs4
